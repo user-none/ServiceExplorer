@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ServiceExplorer</string>
+    <string name="title_activity_main">Service Explorer</string>
+    <string name="title_activity_detail">Service Details</string>
+
+    <string name="search">Search</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="serviceName">Name</string>
+    <string name="servicePackage">Package</string>
+    <string name="serviceEnabled">Enabled</string>
+    <string name="serviceExported">Exported</string>
+    <string name="serviceProcessName">Process</string>
+
+    <string name="appName">App Name</string>
+    <string name="appPermission">Permissions</string>
+    <string name="appSdkVersion">Sdk Version</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="view_pager">Services</string>
+</resources>
