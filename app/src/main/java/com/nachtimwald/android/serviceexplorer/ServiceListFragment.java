@@ -47,7 +47,6 @@ import java.util.Map;
 
 public class ServiceListFragment extends Fragment implements MainActivity.FragmentFilterer {
 
-    private static final String STATE_SEARCH = "search";
     private static final String STATE_LISTPOS = "listpos";
     private SimpleAdapter mServicesAdapter;
 
